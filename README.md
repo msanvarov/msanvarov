@@ -124,6 +124,4 @@ Python                   3 repos             █░░░░░░░░░░�
  Last Updated on 01/09/2023 00:24:02 UTC
 <!--END_SECTION:waka-->
 
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-
 NOTE: Top languages is a metric of which languages have been hosted on GitHub based on the user activity. I use other languages which I haven't put up on GitHub.
