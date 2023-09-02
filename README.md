@@ -17,9 +17,9 @@ Pick a time when you'd like to meet and chat - but make sure to describe the age
 👇 Enter this command on your console or terminal to reach out programmatically.
 
 ```bash
-npx sal
+npx sanvarov
 ```
-**👆 This command line tool can be found at [npx sal](https://github.com/msanvarov/npx-author-card)**
+**👆 This command line tool can be found at [npx sal](https://github.com/msanvarov/npx-business-card)**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
