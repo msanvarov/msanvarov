@@ -1,10 +1,10 @@
 <h2>Hey 👋, I'm Sal Anvarov!</h2>
 <img align='right' src="https://www.sal-anvarov.com/assets/logo/logo-lg.png" width="230">
 <p><em>Full Stack Software Engineer
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</a>
 </em></p>
 
-[![Linkedin: anmol](https://img.shields.io/badge/-Sal_Anvarov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sal-anvarov/)](https://www.linkedin.com/in/sal-anvarov/)
+[![Linkedin: Sal](https://img.shields.io/badge/-Sal_Anvarov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sal-anvarov/)](https://www.linkedin.com/in/sal-anvarov/)
 
 Website: https://sal-anvarov.com/
 
