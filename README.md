@@ -1,27 +1,28 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> (Hey/Hola/Привет) 👋, I'm Sal Anvarov! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Hey 👋, I'm Sal Anvarov!</h2>
 <img align='right' src="https://www.sal-anvarov.com/assets/logo/logo-lg.png" width="230">
 <p><em>Full Stack Software Engineer
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: anmol](https://img.shields.io/badge/-sal_anvarov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sal-anvarov/)](https://www.linkedin.com/in/sal-anvarov/)
-![GitHub followers](https://img.shields.io/github/followers/msanvarov?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://sal-anvarov.com/)](https://sal-anvarov.com/)
+[![Linkedin: anmol](https://img.shields.io/badge/-Sal_Anvarov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sal-anvarov/)](https://www.linkedin.com/in/sal-anvarov/)
 
-### 📫 Would like to chat?
+Website: https://sal-anvarov.com/
 
-Pick a time when you'd like to meet and chat - but make sure to describe the agenda
+### 📫 Like to chat?
 
-<a href="https://calendly.com/msalanvarov/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+Pick a time to meet and chat - please describe the agenda of the meeting if possible
 
-👇 Enter this command on your console or terminal to reach out programmatically.
+<a href="https://calendly.com/msalanvarov/30min" target="_blank"><img width="1148" alt="Screenshot 2023-12-06 at 8 16 12 PM" src="https://github.com/msanvarov/msanvarov/assets/26337118/2f835548-4646-438f-8780-87deffdcad59"></a>
+
+
+👇 Enter this on your console or terminal to reach out programmatically.
 
 ```bash
 npx sanvarov
 ```
-**👆 This command line tool can be found at [npx sal](https://github.com/msanvarov/npx-business-card)**
+**👆 This command line tool can be found at [npx sanvarov](https://github.com/msanvarov/npx-business-card)**
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### A little more on Sal...  
 
 ```javascript
 const sal = {
@@ -45,4 +46,4 @@ const sal = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you would like to <b>chat, I'll be eager to meet you!</b> 😊</em>
+<b>I love connecting with different people</b> so if you would like to <b>chat, I would love to connect!</b> 😊
